@@ -26,8 +26,8 @@ local Window = Rayfield:CreateWindow({
    }
 })
 
-local Tab = Window:CreateTab("Main", nil)
-local Section = Tab:CreateSection("Auto Ability(Q,E)")
+local MainTab = Window:CreateTab("Main", nil)
+local MainSection = Tab:CreateSection("Auto Ability(Q,E)")
 
 
 
